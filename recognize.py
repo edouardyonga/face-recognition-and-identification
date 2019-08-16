@@ -106,5 +106,5 @@ for i in range(0, detections.shape[2]):
 
 # cv2.namedWindow("Face recognition")
 # show the output image
-cv2.imshow("Face Recognition", image)
+cv2.imshow("Face Recognition and identification", image)
 cv2.waitKey(0)
